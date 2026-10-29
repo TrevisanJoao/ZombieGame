@@ -1,0 +1,3 @@
+C:\dev\other_tools\cmake\bin\cmake.exe -E rm -f CMakeFiles\ZombieShooter.dir/objects.a
+C:\dev\other_tools\msys2\ucrt64\bin\ar.exe qc CMakeFiles\ZombieShooter.dir/objects.a @CMakeFiles\ZombieShooter.dir\objects1.rsp
+C:\dev\other_tools\msys2\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ZombieShooter.dir/objects.a -Wl,--no-whole-archive -o ZombieShooter.exe -Wl,--out-implib,libZombieShooter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ZombieShooter.dir\linkLibs.rsp

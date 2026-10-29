@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/dev/project/ZombieGame/build/_deps/glm-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,1 @@
+-IC:/dev/project/ZombieGame/include -IC:/dev/project/ZombieGame/common -IC:/dev/project/ZombieGame/include/glad -I"C:/dev/project/ZombieGame/build/_deps/glm-src" -I"C:/dev/project/ZombieGame/build/_deps/stb_image-src" -I"C:/dev/project/ZombieGame/build/_deps/glfw-src/include"
